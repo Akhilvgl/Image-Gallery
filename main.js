@@ -1,13 +1,13 @@
 // Declare an array of image filenames
-const imageFilenames = ['pic1.jpg', 'pic2.jpg', 'pic3.jpg', 'pic4.jpg', 'pic5.jpg'];
+const imageFilenames = ['pic1.jpeg', 'pic2.jpeg', 'pic3.jpeg', 'pic4.jpeg', 'pic5.jpeg'];
 
 // Declare an object with alternative text for each image
 const imageAltText = {
-  'pic1.jpg': 'Closeup of a blue human eye',
-  'pic2.jpg': 'A mountain landscape',
-  'pic3.jpg': 'White and purple flowers',
-  'pic4.jpg': 'A wall painting',
-  'pic5.jpg': 'A Yellow butterfly'
+  'pic1.jpeg': 'car',
+  'pic2.jpeg': 'car',
+  'pic3.jpeg': 'car',
+  'pic4.jpeg': 'car',
+  'pic5.jpeg': 'car'
 };
 
 // Loop through the array of filenames and insert <img> elements into thumb-bar
